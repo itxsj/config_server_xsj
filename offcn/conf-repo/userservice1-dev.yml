@@ -18,4 +18,4 @@ eureka:
       defaultZone: http://localhost:8888/eureka
 #    fetch-registry: false
 #    register-with-eureka: false
-userService: userService_8001
+userService: userService_8001_new
